@@ -107,7 +107,6 @@ static const CGFloat NYTPhotoCaptionViewVerticalMargin = 7.0;
 
     [self setupTextView];
     [self updateTextViewAttributedText];
-    [self setupGradient];
 }
 
 - (void)setupTextView {
